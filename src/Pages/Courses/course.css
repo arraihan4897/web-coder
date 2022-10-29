@@ -1,0 +1,53 @@
+
+
+
+@media only screen and (max-width: 600px) {
+    /* For tablets: */
+    .containner{
+        background-color: aliceblue;
+        display: grid;
+        grid-template-columns: repeat(1 , 1fr);
+        margin: 50px 35px;
+        padding:37px;
+    }
+
+  }
+@media only screen and (min-width: 600px) {
+    /* For tablets: */
+    .containner{
+        background-color: aliceblue;
+        display: grid;
+        grid-template-columns: repeat(1 , 1fr);
+    }
+
+  }
+  
+  @media only screen and (min-width: 768px) {
+    /* For desktop: */
+.containner{
+    padding-left:25px ;
+    padding-top:10px ;
+    background-color: aliceblue;
+    display: grid;
+    grid-template-columns: repeat(2 , 1fr);
+}
+
+  }
+  .cart{
+    padding: 5px;
+ min-height:650px;
+ background-color: black;
+}
+.nav{
+    border:10px solid rgb(231, 235, 248);
+    border-radius: 5px;
+  margin-top: 40px;
+
+    background-color:aliceblue;
+}
+.nav a{
+   
+    padding: 50px;
+ 
+   text-decoration: none;
+}

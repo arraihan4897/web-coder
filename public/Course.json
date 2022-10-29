@@ -1,0 +1,9 @@
+[
+    {"id":"01","about":"The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. ","photo":"https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw", "name":"HTML"},
+    {"id":"02","about":" Cascading Style Sheets (CSS) is a simple mechanism for adding style (e.g., fonts, colors, spacing) ...","photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png", "name":"CSS"},
+    {"id":"03","about":"Bootstrap is the world's most famous free CSS framework. You can choose between the following versions: · B3 · B4 · B5.","photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpA27QA9ermhUEURC_UfTxDLFlFNJarlFO1Q&usqp=CAU", "name":"BOOTSTRAP"},
+    {"id":"04","about":" JavaScript.com is a resource for the JavaScript community. You will find resources and examples for JavaScript beginners as well as support for JavaScript ...","photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiPAoa787ilA1e5MUYUbf2riqi5OjbaIt2jg&usqp=CAU", "name":"JAVA SCRIPT"},
+    {"id":"05","about":"React is a JavaScript library created by Facebook. React is a User Interface (UI) library. React is a tool for building UI components ...","photo":"https://www.loginradius.com/blog/static/00a89fc56461ea1529439d89072c93f1/701ee/react.jpg", "name":"REACT"},
+    {"id":"06","about":"Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on a JavaScript Engine (i.e. V8 engine) and executes JavaScript ...","photo":"https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png", "name":"NODE JS"}
+    
+]
